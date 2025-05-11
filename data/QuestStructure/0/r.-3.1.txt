@@ -1,0 +1,15 @@
+WoodThornBig,-1650,-1637,624,637
+StonePlantMound3,-1721,-1712,639,650
+RLCraft_SmallUndergroundSkeleton,-1573,-1565,652,660
+ShrineSmallAir,-1797,-1789,613,621
+P_TreeDungeon,-1828,-1786,493,538
+AbandonedWoodTower,-1842,-1806,541,571
+ShrineSmallAir,-1894,-1886,532,540
+StonePlantMound4,-2041,-2034,543,550
+RLCraft_SmallUndergroundSkeleton,-2004,-1996,589,597
+RLCraft_SmallUndergroundSkeleton,-1892,-1884,610,618
+StonePlantMound,-1962,-1957,615,620
+StonePlantMound1,-1997,-1991,639,645
+StoneLeafMound,-2008,-1999,688,695
+StoneLeafMound,-2010,-2001,692,699
+StonePlantMound,-2039,-2034,738,743

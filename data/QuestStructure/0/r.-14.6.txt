@@ -1,0 +1,12 @@
+StonePlantMound4,-7176,-7169,3413,3420
+StonePlantMound3,-7222,-7213,3461,3472
+MeteorSite,-7181,-7166,3354,3384
+StonePlantBoulder,-7246,-7236,3423,3433
+RLCraft_BasicWitch,-7262,-7262,3359,3359
+RLCraft_UndergroundRuin1,-7268,-7259,3353,3362
+StoneBoulder,-7341,-7332,3462,3471
+SmallWoodenCottage2,-7344,-7336,3438,3446
+StonePlantMound4,-7361,-7354,3448,3455
+StonePlantBoulder,-7381,-7371,3532,3542
+ShrineSmallAir,-7402,-7394,3480,3488
+WoodThornBig,-7393,-7380,3424,3437

@@ -1,0 +1,8 @@
+RLCraft_BasicWitch,4546,4546,5183,5183
+RLCraft_UndergroundRuin1,4540,4549,5177,5186
+RLCraft_AgentStarbuck_WaterBase,4505,4522,5266,5278
+RLCraft_Lyquix,4459,4475,5312,5328
+MonolythHoly,4387,4401,5304,5318
+RLCraft_SmallUndergroundSkeleton,4391,4399,5359,5367
+SmallClockworkSite,4450,4472,5377,5396
+BigClockworkSite,4329,4374,5359,5394

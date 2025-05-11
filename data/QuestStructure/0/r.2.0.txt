@@ -1,0 +1,12 @@
+StonePlantMound3,1039,1048,-67,-56
+StonePlantMound4,1083,1090,-92,-85
+StoneLeafMound,1093,1102,12,19
+StoneLeafMound,1097,1104,34,43
+StonePlantMound3,1116,1127,11,20
+P_Crater,1094,1170,-79,4
+StoneBoulder,1176,1185,-27,-18
+StonePlantMound,1182,1187,-4,1
+RLCraft_UndergroundFarm,1269,1311,-90,-47
+RLCraft_DecentCaveSpider,1314,1314,-192,-192
+RLCraft_UndergroundRuin3,1312,1320,-195,-187
+IceThorn4,1300,1316,-284,-258

@@ -1,0 +1,4 @@
+RLCraft_DecentSpider,575,575,1111,1111
+RLCraft_UndergroundRuin3,569,577,1106,1114
+RLCraft_BasicZombie,579,579,1341,1341
+RLCraft_UndergroundRuin1,573,582,1338,1347

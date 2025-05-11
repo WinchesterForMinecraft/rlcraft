@@ -1,0 +1,14 @@
+SpiderPit,-1191,-1181,1089,1098
+UndergroundCrypt,-1178,-1164,1138,1166
+WoodWallRemains,-1261,-1253,1130,1158
+MeteorSite,-1290,-1275,1035,1065
+ClayWaterMound1,-1330,-1320,1143,1154
+RLCraft_SmallUndergroundSkeleton,-1343,-1335,1184,1192
+MysticalTree,-1221,-1206,1305,1321
+StonePlantMound3,-1145,-1136,1309,1320
+StonePlantMound,-1330,-1325,1304,1309
+StonePlantMound3,-1190,-1179,1350,1359
+RLCraft_DecentZombie,-1046,-1046,1328,1328
+RLCraft_UndergroundRuin2,-1048,-1041,1323,1333
+SmallWoodenCottage2,-1111,-1103,1439,1447
+StoneLeafMound,-1106,-1099,1500,1509

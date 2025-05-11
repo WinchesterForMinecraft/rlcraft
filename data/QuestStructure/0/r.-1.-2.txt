@@ -1,0 +1,12 @@
+RLCraft_DecentZombie,-558,-558,-1050,-1050
+RLCraft_UndergroundRuin2,-563,-556,-1055,-1045
+ShrineSmallAir,-529,-521,-1096,-1088
+RLCraft_NetherPortal2_Felix,-610,-581,-1200,-1158
+RLCraft_SmallUndergroundSkeleton,-546,-538,-1223,-1215
+RLCraft_DecentSkeleton,-714,-714,-1068,-1068
+RLCraft_UndergroundRuin2,-719,-712,-1073,-1063
+RLCraft_BasicSpider,-788,-788,-1221,-1221
+RLCraft_UndergroundRuin1,-794,-785,-1224,-1215
+ShrineSmallFire,-916,-906,-1243,-1233
+RLCraft_SmallUndergroundSkeleton,-542,-534,-1255,-1247
+ShrineSmallFire,-585,-575,-1337,-1327

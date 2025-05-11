@@ -1,0 +1,4 @@
+StoneBoulder,-5642,-5633,-6960,-6951
+StonePlantMound2,-5677,-5665,-6915,-6902
+UndergroundTreeoid,-5687,-5661,-6858,-6835
+RLCraft_PlainsCamp,-5689,-5650,-6848,-6802

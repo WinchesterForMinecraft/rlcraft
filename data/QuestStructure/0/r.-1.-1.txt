@@ -1,0 +1,11 @@
+RLCraft_BasicSkeleton,-553,-553,-882,-882
+RLCraft_UndergroundRuin1,-556,-547,-885,-876
+MeteorSite,-565,-550,-567,-537
+MeteorSite,-738,-723,-980,-950
+RLCraft_SmallUndergroundSkeleton,-843,-835,-994,-986
+RLCraft_DecentZombie,-881,-881,-840,-840
+RLCraft_UndergroundRuin3,-884,-876,-846,-838
+SmallClockworkSite,-866,-847,-718,-696
+RLCraft_DecentWitch,-912,-912,-531,-531
+RLCraft_UndergroundRuin2,-914,-907,-536,-526
+RLCraft_SmallUndergroundSkeleton,-975,-967,-763,-755

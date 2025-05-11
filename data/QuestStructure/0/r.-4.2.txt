@@ -1,0 +1,12 @@
+StonePlantMound2,-2340,-2327,1018,1030
+StonePlantMound4,-2214,-2207,1027,1034
+StoneLeafMound,-2290,-2283,1039,1048
+SmallWoodenCottage,-2337,-2326,1058,1066
+StonePlantBoulder,-2499,-2489,1081,1091
+MysticalTree2,-2395,-2385,1129,1139
+RLCraft_SmallUndergroundSkeleton,-2327,-2319,1134,1142
+SmallAbandonedMine,-2345,-2330,1144,1169
+StoneBoulder,-2402,-2393,1195,1204
+StonePlantMound,-2459,-2454,1252,1257
+DinosaurSkeleton,-2393,-2384,1262,1308
+StonePlantMound2,-2296,-2284,1297,1310

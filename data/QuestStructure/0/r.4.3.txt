@@ -1,0 +1,4 @@
+WoodenClockTower,2044,2084,1880,1912
+RLCraft_DecentWitch,2116,2116,2004,2004
+RLCraft_UndergroundRuin3,2114,2122,1999,2007
+StonePlantBoulder,2123,2133,2028,2038

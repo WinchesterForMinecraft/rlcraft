@@ -1,0 +1,4 @@
+ShrineSmallFire,1024,1034,633,643
+P_CultIsland,1133,1343,846,1016
+Tree_Oak_TheMushroomOak_v3,1388,1438,604,663
+P_IslandCity,1233,1567,861,1167

@@ -1,0 +1,8 @@
+RLCraft_DecentSpider,-2073,-2073,322,322
+RLCraft_UndergroundRuin2,-2078,-2068,320,327
+RLCraft_BasicZombie,-2094,-2094,446,446
+RLCraft_UndergroundRuin1,-2097,-2088,443,452
+StonePlantBoulder,-2184,-2174,410,420
+P_WizardTower,-2242,-2212,346,376
+RLCraft_SmallTown,-2300,-2229,400,475
+StonePlantMound4,-2380,-2373,465,472

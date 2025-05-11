@@ -1,0 +1,17 @@
+StonePlantBoulder,-3093,-3083,1533,1543
+StoneLeafMound,-3109,-3102,1574,1583
+StonePlantMound3,-3136,-3125,1543,1552
+StonePlantMound,-3115,-3110,1812,1817
+RLCraft_DecentWitch,-3104,-3104,1829,1829
+RLCraft_UndergroundRuin2,-3109,-3099,1827,1834
+StonePlantMound4,-3105,-3098,1963,1970
+StonePlantBoulder,-3096,-3086,1988,1998
+StonePlantMound1,-3132,-3126,1920,1926
+RLCraft_SmallUndergroundSkeleton,-3223,-3215,1863,1871
+RLCraft_SmallUndergroundSkeleton,-3217,-3209,1924,1932
+RLCraft_UndergroundFarm,-3276,-3233,1667,1709
+RLCraft_DecentSpider,-3446,-3446,1694,1694
+RLCraft_UndergroundRuin3,-3449,-3441,1688,1696
+RLCraft_SmallTown,-3493,-3422,1693,1768
+SmallFortRuins,-3499,-3467,1613,1643
+StoneBoulder,-3171,-3162,1571,1580

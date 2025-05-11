@@ -1,0 +1,9 @@
+StonePlantMound,-5001,-4996,-7879,-7874
+SmallWoodenCottage2,-5093,-5085,-7943,-7935
+StonePlantMound,-4949,-4944,-7979,-7974
+StonePlantMound2,-4968,-4955,-7799,-7787
+BrickHenge,-5012,-4996,-8079,-8063
+StonePlantMound4,-4994,-4987,-8073,-8066
+StonePlantMound1,-5060,-5054,-7783,-7777
+StoneLeafMound,-4939,-4930,-7801,-7794
+StonePlantMound2,-4944,-4932,-7766,-7753

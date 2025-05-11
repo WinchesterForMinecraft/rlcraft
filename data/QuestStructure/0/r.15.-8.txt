@@ -1,0 +1,7 @@
+SpiderPit,8153,8163,-4427,-4418
+JokerTower,8033,8041,-4483,-4475
+StonePlantMound4,8050,8057,-4384,-4377
+ClayWaterMound1,7999,8010,-4417,-4407
+StonePlantBoulder,7962,7972,-4489,-4479
+UndergroundCultChamber,8111,8153,-4339,-4307
+StonePlantBoulder,8150,8160,-4310,-4300
