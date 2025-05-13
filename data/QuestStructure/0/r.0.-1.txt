@@ -38,3 +38,13 @@ ShrineSmallAir,65,73,-752,-744
 RLCraft_BasicSkeleton,67,67,-750,-750
 RLCraft_UndergroundRuin1,64,73,-753,-744
 StonePlantBoulder,196,206,-748,-738
+RLCraft_SmallUndergroundSkeleton,14,22,-1023,-1015
+ShrineSmallAir,20,28,-1005,-997
+StatueTemple,37,108,-987,-885
+ShrineSmallFire,126,136,-926,-916
+MeteorSite,122,137,-896,-866
+RLCraft_SmallUndergroundSkeleton,138,146,-954,-946
+RLCraft_BasicCaveSpider,160,160,-883,-883
+RLCraft_UndergroundRuin1,157,166,-886,-877
+StonePlantMound2,191,203,-808,-795
+IceThorn1,190,206,-835,-814

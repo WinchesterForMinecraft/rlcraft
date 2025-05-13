@@ -149,6 +149,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_the_recipe": "2025-05-12 20:02:18 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-05-09 08:06:34 +0700"
@@ -305,6 +311,7 @@
       "cooked_beef": "2025-05-10 12:53:07 +0700",
       "baked_potato": "2025-05-10 14:10:23 +0700",
       "pumpkin_pie": "2025-05-11 08:33:45 +0700",
+      "bread": "2025-05-12 20:02:25 +0700",
       "rotten_flesh": "2025-05-10 13:06:15 +0700"
     },
     "done": false
@@ -465,6 +472,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar": {
+    "criteria": {
+      "has_reeds": "2025-05-12 20:03:25 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
       "has_double_plant": "2025-05-11 09:07:25 +0700"
@@ -534,6 +547,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-05-12 14:42:40 +0700"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-05-08 21:25:42 +0700"
@@ -567,6 +586,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2025-05-10 12:39:17 +0700"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-05-12 14:31:54 +0700"
     },
     "done": true
   },
@@ -705,6 +730,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie_villager": "2025-05-10 17:37:27 +0700",
+      "skeleton": "2025-05-12 19:40:14 +0700",
       "zombie": "2025-05-10 17:37:10 +0700",
       "spider": "2025-05-10 15:27:40 +0700"
     },
@@ -761,6 +787,12 @@
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_at_least_9_gold_nugget": "2025-05-11 11:22:36 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_the_recipe": "2025-05-12 13:06:39 +0700"
     },
     "done": true
   },
@@ -833,6 +865,12 @@
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_lapis": "2025-05-10 13:02:36 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-05-12 20:03:25 +0700"
     },
     "done": true
   },
@@ -1094,6 +1132,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone": {
+    "criteria": {
+      "has_bone": "2025-05-12 14:04:53 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-09 08:00:22 +0700"
@@ -1219,11 +1263,13 @@
       "forest": "2025-05-10 13:22:33 +0700",
       "mesa_rock": "2025-05-10 14:05:33 +0700",
       "birch_forest": "2025-05-11 09:00:45 +0700",
+      "beaches": "2025-05-12 13:10:22 +0700",
       "mesa": "2025-05-10 13:30:45 +0700",
       "plains": "2025-05-10 13:04:56 +0700",
       "jungle_edge": "2025-05-10 13:32:58 +0700",
       "taiga": "2025-05-08 21:15:24 +0700",
       "taiga_hills": "2025-05-08 21:21:31 +0700",
+      "ocean": "2025-05-12 13:11:07 +0700",
       "extreme_hills": "2025-05-11 08:52:31 +0700",
       "roofed_forest": "2025-05-11 08:57:43 +0700",
       "river": "2025-05-08 21:22:22 +0700",
@@ -1352,6 +1398,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_at_least_9_lapis": "2025-05-12 13:06:39 +0700"
+    },
+    "done": true
+  },
   "wolfarmor:recipes/combat/iron_wolf_armor": {
     "criteria": {
       "has_the_ingredients": "2025-05-10 12:39:17 +0700"
@@ -1433,6 +1485,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-05-10 13:02:45 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stonebrick": {
+    "criteria": {
+      "has_stonebrick": "2025-05-12 13:45:45 +0700"
     },
     "done": true
   },

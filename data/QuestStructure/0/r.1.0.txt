@@ -331,3 +331,5 @@ SmallWoodenCottage2,579,587,-202,-194
 RLCraft_BasicWitch,592,592,-75,-75
 RLCraft_UndergroundRuin1,589,598,-78,-69
 StonePlantMound3,610,619,-206,-195
+StoneLeafMound,664,671,-272,-263
+WoodWallRemains,722,730,-359,-331

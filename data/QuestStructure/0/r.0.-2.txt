@@ -263,3 +263,13 @@ RLCraft_BasicSpider,-103,-103,-1141,-1141
 RLCraft_UndergroundRuin1,-106,-97,-1144,-1135
 P_TreeDungeon,-123,-81,-1186,-1141
 ShrineSmallAir,-453,-445,-1330,-1322
+P_MayanTemple3,-73,-29,-1091,-1038
+RLCraft_BasicWitch,64,64,-1169,-1169
+RLCraft_UndergroundRuin1,58,67,-1175,-1166
+RLCraft_SmallUndergroundSkeleton,50,58,-1187,-1179
+P_SkyCastle,74,115,-1266,-1225
+RLCraft_UndergroundFarm,63,106,-1260,-1218
+SpiderPit,-60,-51,-1292,-1282
+P_WizardTower,124,154,-1185,-1155
+DinosaurSkull,150,161,-1126,-1107
+ShrineSmallFire,149,159,-1188,-1178
